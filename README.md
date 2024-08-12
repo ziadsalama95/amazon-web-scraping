@@ -41,7 +41,7 @@ Run the Jupyter notebook `main.ipynb` to start the web scraping process. The res
 
 ### Functions
 
-The helper functions are defined in `my_functions.py`:
+The helper functions are defined in `functions.py`:
 
 - `get_product_name(container)`: Extracts the product name from a container.
 - `get_product_rating(container)`: Extracts the product rating.
