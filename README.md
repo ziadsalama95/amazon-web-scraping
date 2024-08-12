@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ### Usage
 
-Run the Jupyter notebook `main.ipynb` to start the web scraping process. The results will be stored in a list of dictionaries.
+Run the Jupyter notebook `main.ipynb` to start the web scraping process. The results will be stored in a CSV file.
 
 ### Functions
 
