@@ -56,6 +56,7 @@ The scraped data includes the following fields:
 - **Price (EGP)**: The price of the product in Egyptian Pounds.
 - **Rating**: The average rating of the product.
 - **Reviews**: The number of reviews for the product.
+- **Keyword**: The search term used to query Amazon's search page.
 
 ### Example Output
 
@@ -64,7 +65,8 @@ The scraped data includes the following fields:
     "Name": "Sample Product",
     "Price (EGP)": "399.99",
     "Rating": "4.5",
-    "Reviews": "123"
+    "Reviews": "123",
+    "Keyword": "top rated"
 }
 ```
 
