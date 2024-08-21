@@ -12,7 +12,8 @@ This project demonstrates a web scraping tool designed to extract product data f
 ## Project Structure
 
 ```
-.
+amazon-web-scraping/
+│
 ├── main.ipynb  # Jupyter notebook containing the main scraping logic
 ├── functions.py  # Helper functions for extracting data from HTML
 ├── data/
